@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.form-container{
+  width: 50%;
+  display: flex;
+  margin: 5% auto;
+}
